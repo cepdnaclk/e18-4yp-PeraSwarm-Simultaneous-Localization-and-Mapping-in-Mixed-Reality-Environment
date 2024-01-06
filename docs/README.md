@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e18-4yp-collaborative-mapping-with-swarm-robots
+title: Collaborative mapping with swarm robots
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -21,6 +21,7 @@ title:
 
 - Prof. Roshan G. Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
 - Dr. Isuru Nawinne, [email](mailto:isurunawinne@eng.pdn.ac.lk)
+- Mr. Nuwan Jaliyagoda, [email](mailto:nuwanjaliyagoda@eng.pdn.ac.lk)
 
 #### Table of content
 
