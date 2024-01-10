@@ -69,8 +69,8 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots)
+- [Project Page](https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
