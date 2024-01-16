@@ -25,6 +25,9 @@ The objective of this project is to use swarm robots to efficiently map and navi
 3. Mr. Nuwan Jaliyagoda, [Website](https://people.ce.pdn.ac.lk/students/e15/140/), [Email](mailto:nuwanjaliyagoda@eng.pdn.ac.lk)
 
 ## Links
-1. [Project Page](https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots/)
-2. [Github Repo](https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots)
-3. [Department of Computer Engineering](http://www.ce.pdn.ac.lk)
+1. [Project Repository](https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots)
+2. [Project Page](https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots/)
+3. [Pera Swarm - GitHub Organization](https://github.com/pera-swarm)
+4. [Pera Swarm - Website](https://pera-swarm.ce.pdn.ac.lk/)
+5. [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
+6. [University of Peradeniya](https://eng.pdn.ac.lk/)
