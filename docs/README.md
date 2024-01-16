@@ -71,6 +71,8 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 - [Project Repository](https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots)
 - [Project Page](https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots/)
+- [Pera Swarm - GitHub Organization](https://github.com/pera-swarm)
+- [Pera Swarm - Website](https://pera-swarm.ce.pdn.ac.lk/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
