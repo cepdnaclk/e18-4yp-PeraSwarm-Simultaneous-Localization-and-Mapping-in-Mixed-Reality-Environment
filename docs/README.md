@@ -180,6 +180,11 @@ illustrates the restricted movement capabilities of our robots.
 ![Fig1](./images/fig1.png)
 Fig. Robot movement constraints
 
+<div class="figure container">
+<img class="mx-auto d-block" src="./images/fig1.png" alt="Sample Image" width="128" />
+<p class="caption text-center">Figure 1.1 Sample Image</p>
+</div>
+
 We assume the robots operate in a planer workspace. To
 represent the overall environment, we use a grid map. This
 map is stored as a matrix, where each element corresponds
