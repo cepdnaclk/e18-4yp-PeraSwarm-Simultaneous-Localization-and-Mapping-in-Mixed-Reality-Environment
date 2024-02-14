@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e18-4yp-collaborative-mapping-with-swarm-robots
-title: Collaborative mapping with swarm robots
+repository-name: e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment
+title: PeraSwarm: Simultaneous Localization and Mapping in Mixed Reality Environment
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
