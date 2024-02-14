@@ -168,6 +168,19 @@ robots and mapper robots, where the former guide the latter to promising areas t
 
 ## Experiment Setup and Implementation
 
+Here, we present our progress on developing a multirobot mapping system using occupancy grid approach. We
+tested mapping algorithms with virtual robots in our simulated
+environment.
+Each robot is constrained to move one step at a time in four
+directions: North, East, South and West. These limitations play
+a crucial role in our multi-robot mapping system, affecting
+their exploration patterns and map coverage efficiency. Fig. 1
+illustrates the restricted movement capabilities of our robots.
+
+![Collaborative Mapping](./images/fig1.png)
+
+
+
 ## Results and Analysis
 
 ## Conclusion
