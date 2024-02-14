@@ -200,8 +200,8 @@ techniques for improved mapping and localization.
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots)
-- [Project Page](https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots/)
+- [Project Repository](https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment)
+- [Project Page](https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/)
 - [Pera Swarm - GitHub Organization](https://github.com/pera-swarm)
 - [Pera Swarm - Website](https://pera-swarm.ce.pdn.ac.lk/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
