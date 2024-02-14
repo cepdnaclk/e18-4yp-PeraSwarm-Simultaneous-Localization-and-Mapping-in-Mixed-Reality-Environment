@@ -178,6 +178,7 @@ their exploration patterns and map coverage efficiency. Fig. 1
 illustrates the restricted movement capabilities of our robots.
 
 ![Fig1](./images/fig1.png)
+Fig. Robot movement constraints
 
 We assume the robots operate in a planer workspace. To
 represent the overall environment, we use a grid map. This
