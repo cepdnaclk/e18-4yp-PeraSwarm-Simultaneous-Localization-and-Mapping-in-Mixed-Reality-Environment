@@ -177,12 +177,12 @@ a crucial role in our multi-robot mapping system, affecting
 their exploration patterns and map coverage efficiency. Fig. 1
 illustrates the restricted movement capabilities of our robots.
 
-![Fig1](./images/fig1.png)
-Fig. Robot movement constraints
 
 <div class="figure container">
-<img class="mx-auto d-block" src="./images/fig1.png" alt="Sample Image" width="128" />
-<p class="caption text-center">Figure 1.1 Sample Image</p>
+  <div style="text-align: center;">
+    <img src="./images/fig1.png" alt="Robot movement constraints" width="128" />
+  </div>
+  <p class="caption text-center">Fig. Robot movement constraints</p>
 </div>
 
 We assume the robots operate in a planer workspace. To
