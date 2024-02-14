@@ -170,6 +170,19 @@ robots and mapper robots, where the former guide the latter to promising areas t
 ## Results and Analysis
 
 ## Conclusion
+Swarm robotics can be considered as a core research topic in
+the scope of multi-agent systems in engineering that leverages
+the principles of self-organization, decentralized control, and
+collective intelligence to create adaptive and robust robotic
+systems capable of performing a wide range of tasks in
+complex and dynamic environments.
+However, SLAM with swarm robotics is still a relatively
+new concept, lacking well-defined frameworks and results. It is
+believed that Swarm SLAM can be particularly advantageous
+in producing abstract maps and operating under time or cost
+constraints. Future directions and potential advancements in
+Swarm SLAM involve the development of advanced cooperative localization methods, integration of machine learning
+techniques for improved mapping and localization.
 
 <!-- 
 ## Publications
