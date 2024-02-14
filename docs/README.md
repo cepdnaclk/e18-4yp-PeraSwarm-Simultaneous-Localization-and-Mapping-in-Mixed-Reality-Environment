@@ -9,7 +9,7 @@ title: Collaborative mapping with swarm robots
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Collaborative mapping with swarm robots
+# PeraSwarm: Simultaneous Localization and Mapping in Mixed Reality Environment
 
 #### Team
 
@@ -169,8 +169,9 @@ robots and mapper robots, where the former guide the latter to promising areas t
 
 ## Results and Analysis
 
-<!-- ## Conclusion
+## Conclusion
 
+<!-- 
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
 
