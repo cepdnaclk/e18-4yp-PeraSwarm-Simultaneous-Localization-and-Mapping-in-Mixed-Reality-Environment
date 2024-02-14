@@ -177,11 +177,8 @@ a crucial role in our multi-robot mapping system, affecting
 their exploration patterns and map coverage efficiency. Fig. 1
 illustrates the restricted movement capabilities of our robots.
 
-
 <div class="figure container">
-  <div style="text-align: center;">
-    <img src="./images/fig1.png" alt="Robot movement constraints" width="128" />
-  </div>
+  <img class="mx-auto d-block" src="./images/fig1.png" alt="Fig. Robot movement constraints" width="200" />
   <p class="caption text-center">Fig. Robot movement constraints</p>
 </div>
 
@@ -201,7 +198,10 @@ with the testing environment we used. The matrix captures
 this information, allowing the robots to navigate and make
 decisions based on the environment’s characteristics.
 
-![Fig2](./images/fig2.png)
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/fig2.png" alt="Fig. Robot testing environment and grid map states"/>
+  <p class="caption text-center">Fig. Robot testing environment and grid map states</p>
+</div>
 
 Each robot is equipped with a proximity sensor, enabling
 it to sense and interact with its surrounding environment.
@@ -219,7 +219,10 @@ of a complete map within each robot. Fig. 3 illustrates the
 testing environment we utilized, along with the map that was
 generated within a few minutes of operation.
 
-![Fig3](./images/fig3.png)
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/fig3.png" alt="Fig. Testing environment and generated map for two robots"/>
+  <p class="caption text-center">Fig. Testing environment and generated map for two robots</p>
+</div>
 
 We evaluated the performance of our mapping algorithms
 in terms of accuracy, completeness, and scalability.
