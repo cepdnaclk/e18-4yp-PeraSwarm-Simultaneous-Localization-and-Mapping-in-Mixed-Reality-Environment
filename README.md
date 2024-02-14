@@ -8,7 +8,7 @@ https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
 --->
 
 ___
-# Collaborative mapping with swarm robots
+# PeraSwarm: Simultaneous Localization and Mapping in Mixed Reality Environment
 ___
 
 ## Description
