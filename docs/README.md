@@ -199,7 +199,7 @@ this information, allowing the robots to navigate and make
 decisions based on the environment’s characteristics.
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/fig2.png" alt="Fig. Robot testing environment and grid map states" width="300" />
+  <img class="mx-auto d-block" src="./images/fig2.png" alt="Fig. Robot testing environment and grid map states" width="600" />
   <p class="caption text-center">Fig. Robot testing environment and grid map states</p>
 </div>
 
@@ -220,7 +220,7 @@ testing environment we utilized, along with the map that was
 generated within a few minutes of operation.
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/fig3.png" alt="Fig. Testing environment and generated map for two robots" width="300" />
+  <img class="mx-auto d-block" src="./images/fig3.png" alt="Fig. Testing environment and generated map for two robots" width="600" />
   <p class="caption text-center">Fig. Testing environment and generated map for two robots</p>
 </div>
 
