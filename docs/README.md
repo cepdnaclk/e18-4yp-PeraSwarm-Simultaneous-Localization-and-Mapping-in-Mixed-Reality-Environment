@@ -224,6 +224,8 @@ generated within a few minutes of operation.
   <p class="caption text-center">Fig. Testing environment and generated map for two robots</p>
 </div>
 
+![Demo](./videos/Demonstration3.mp4)
+
 We evaluated the performance of our mapping algorithms
 in terms of accuracy, completeness, and scalability.
 We also took an approach to mapping with unknown initial
