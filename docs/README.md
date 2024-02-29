@@ -226,7 +226,8 @@ generated within a few minutes of operation.
 
 <div class="figure container">
   <video class="mx-auto d-block" width="600" controls>
-    <source src="./videos/Demonstration3.mp4" type="video/mp4">
+    <source src="./videos/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   <p class="caption text-center">Demonstration video</p>
 </div>
