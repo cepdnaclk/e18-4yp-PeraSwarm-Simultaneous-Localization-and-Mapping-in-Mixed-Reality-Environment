@@ -224,7 +224,12 @@ generated within a few minutes of operation.
   <p class="caption text-center">Fig. Testing environment and generated map for two robots</p>
 </div>
 
-![Demo](./videos/Demonstration3.mp4)
+<div class="figure container">
+  <video class="mx-auto d-block" width="600" controls>
+    <source src="./videos/Demonstration3.mp4" type="video/mp4">
+  </video>
+  <p class="caption text-center">Demonstration video</p>
+</div>
 
 We evaluated the performance of our mapping algorithms
 in terms of accuracy, completeness, and scalability.
