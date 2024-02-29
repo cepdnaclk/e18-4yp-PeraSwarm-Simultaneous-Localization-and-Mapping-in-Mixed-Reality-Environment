@@ -225,11 +225,8 @@ generated within a few minutes of operation.
 </div>
 
 <div class="figure container">
-  <video class="mx-auto d-block" width="600" controls>
-    <source src="./videos/Demonstration3.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p class="caption text-center">Demonstration video</p>
+  <img class="mx-auto d-block" src="./images/Demo.gif" alt="Fig. Testing environment and generated map for two robots" width="600" />
+  <p class="caption text-center">Demonstration</p>
 </div>
 
 We evaluated the performance of our mapping algorithms
