@@ -240,7 +240,7 @@ generated within a few minutes of operation.
 </div>
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/Demo3.gif" alt="Fig. Testing environment and generated map for two robots" width="600" />
+  <img class="mx-auto d-block" src="./images/Demo.gif" alt="Fig. Testing environment and generated map for two robots" width="600" />
   <p class="caption text-center">Demonstration</p>
 </div>
 
