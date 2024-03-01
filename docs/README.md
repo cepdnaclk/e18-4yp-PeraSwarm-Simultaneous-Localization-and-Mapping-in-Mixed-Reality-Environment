@@ -63,12 +63,13 @@ pave the way for overcoming these challenges, leading to more
 efficient and robust exploration missions.
 
 
-<div class="figure container">
-  <img class="mx-auto d-block" src="./images/ant_swarm.jpg" alt="Fig. Ant Swarm" width="300" />
-</div>
-
-<div class="figure container">
-  <img class="mx-auto d-block" src="./images/bee_swarm.gif" alt="Fig. Bee Swarm" width="300" />
+<div class="figure-container" style="display: flex;">
+  <div class="figure">
+    <img class="mx-auto d-block" src="./images/ant_swarm.jpg" alt="Fig. Ant Swarm" width="300" />
+  </div>
+  <div class="figure">
+    <img class="mx-auto d-block" src="./images/bee_swarm.gif" alt="Fig. Bee Swarm" width="300" />
+  </div>
 </div>
 <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
 
