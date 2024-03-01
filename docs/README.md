@@ -64,8 +64,7 @@ efficient and robust exploration missions.
 
 
 
-
-<img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="300"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="300"/>
+<img class="mx-auto d-block" src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="300"/> <img class="mx-auto d-block" src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="300"/>
 <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
 
 
