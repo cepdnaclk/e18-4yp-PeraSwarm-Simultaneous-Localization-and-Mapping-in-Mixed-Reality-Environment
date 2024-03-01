@@ -62,6 +62,20 @@ Nonetheless, advancements in robotics and artificial intelligence
 pave the way for overcoming these challenges, leading to more
 efficient and robust exploration missions.
 
+<div class="row">
+  <div class="col">
+    <div class="figure container">
+      <img class="mx-auto d-block" src="./images/ant_swarm.jpg" alt="Fig. Ant Swarm" width="300" />
+    </div>
+  </div>
+  <div class="col">
+    <div class="figure container">
+      <img class="mx-auto d-block" src="./images/bee_swarm.gif" alt="Fig. Bee Swarm" width="300" />
+    </div>
+  </div>
+  <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
+</div>
+
 ## Related works
 A comprehensive system was implemented by Arvanitakis
 et al. where each robot in the swarm was equipped
