@@ -26,11 +26,12 @@ title: PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environm
 #### Table of content
 
 1. [Abstract](#abstract)
-2. [Related works](#related-works)
-3. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-4. [Conclusion](#conclusion)
-5. [Publications](#publications)
-6. [Links](#links)
+2. [Introduction](#introduction)
+3. [Related works](#related-works)
+4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
+5. [Conclusion](#conclusion)
+6. [Publications](#publications)
+7. [Links](#links)
 
 <!-- 3. [Methodology](#methodology)
 4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
@@ -49,21 +50,26 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Abstract
-The research is focused more on mapping and localization in swarm
-robotics, where multiple robots collaborate to achieve tasks
-in decentralized and distributed manner. Inspired by natural
-swarm behaviors, such as those observed in ants and bees,
-swarm robotics aims to analyze emergent behaviors within
-robot swarms, including aggregation, dispersion, and collective
-movement. The focus here is on the exploration behavior of
-swarm robotics in unknown environments. While swarm robotics
-offers increased efficiency, reliability, and cost-effectiveness, implementing distributed exploration poses challenges in coordination, communication, decision-making, and fault tolerance.
-Nonetheless, advancements in robotics and artificial intelligence
-pave the way for overcoming these challenges, leading to more
-efficient and robust exploration missions.
+This paper explores the captivating field of swarm robotics, where multiple robots collaborate to achieve tasks in decentralized and distributed manner. Inspired by natural swarm behaviors, such as those observed in ants and bees, swarm robotics aims to analyze emergent behaviors within robot swarms, including aggregation, dispersion, and collective movement. The focus here is on the exploration behavior of swarm robotics in unknown environments. While swarm robotics offers increased efficiency, reliability, and cost-effectiveness, implementing distributed exploration poses challenges in coordination, communication, decision-making, and fault tolerance. Nonetheless, advancements in robotics and artificial intelligence pave the way for overcoming these challenges, leading to more efficient and robust exploration missions.
+
+Index Terms — Swarm robotics, Collaborative mapping, Swarm intelligence
+
+## Introduction
+Swarm robotics is a fascinating field of robotics that involves multiple robots working together to achieve tasks in a decentralized and distributed manner. It is inspired by the collective behavior observed in natural swarms, such as colonies of ants and hives of bees, where individual entities work together towards a common goal. 
 
 <img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="250"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="250"/>
 <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
+
+The primary objective of swarm robotics is to investigate and analyze the emergent collaborative and competitive behaviors within a swarm of robots. Over the past decades, researchers have delved into various emergent behaviors, including aggregation, dispersion, pattern formation, collective movement and task allocation. Each of these behaviors offers unique insights into how individual robots can work together to achieve complex tasks without centralized control or leadership. Here, we will specifically concentrate on the exploration behavior of swarm robotics in unknown environments.
+
+Autonomous mobile robots, which have been at the forefront of scientific research for numerous years, are renowned for their wide-ranging applications. These applications often require a pre-existing map of the environment, a requirement that is integral to the successful operation of these robots. The applications are diverse and span several fields, including search and rescue missions, cleaning tasks, and systems for intrusion detection or fault identification. In the context of search and rescue missions, for instance, these robots can navigate through hazardous environments, reaching areas that are inaccessible or too dangerous for humans. For cleaning tasks, autonomous robots can efficiently cover large areas, ensuring every nook and corner is attended to. In security systems, these robots can patrol and monitor specified areas, detecting any anomalies or intrusions.
+
+A map exploration system allows the robot to autonomously create a representation of its surroundings. It’s like giving the robot a sense of ‘sight’, enabling it to understand and navigate its surroundings. However, this is not a trivial task. It can be time-intensive, especially for a single robot, particularly in large disaster areas with complex terrains. The challenge is compounded by the dynamic nature of these environments, where obstacles can appear or disappear, and paths can open or close. Therefore, the development of efficient mapping strategies is of utmost importance for the effective use of autonomous mobile robots. These strategies should enable the robots to quickly and accurately map their environment, identify obstacles, and plan the best path to their destination. They should also allow the robots to adapt to changes in the environment and recover from any errors or failures. 
+
+In comparison to a single autonomous mobile robot, a group or swarm of these robots can offer a multitude of benefits in exploration tasks. These advantages include enhanced efficiency, increased reliability, and robustness. These benefits are achieved through some form of collaboration among the team members, a characteristic that is inherent to the concept of swarm robotics. Firstly, due to this collaborative approach, a swarm of robots can complete complex tasks more quickly than a single robot. This is a significant advantage, particularly for missions where time is of the essence. The swarm can cover more ground, gather more data, and complete tasks more quickly, making it an invaluable tool in these situations. Moreover, the redundancy of robots in a swarm provides added flexibility. This means that even if some robots malfunction or are unable to complete their tasks, the overall mission can still be completed. This is because other robots in the swarm can take over the tasks of the malfunctioning robots, ensuring the robustness of the system. This redundancy and flexibility are crucial in dynamic and unpredictable environments, where robots may face unforeseen challenges or obstacles. Lastly, each robot in a swarm doesn’t need to be as costly or sophisticated as a single robot performing the same task. This makes swarm robotics a more economical choice for many applications. Instead of investing in one highly sophisticated and expensive robot, organizations can invest in a swarm of simpler, more affordable robots. These robots, though individually less capable, can collectively achieve the same, if not better, results. This cost-effectiveness, combined with the other benefits of swarm robotics, makes it an attractive choice for a wide range of applications.
+
+However, implementing this strategy in a distributed manner presents several challenges. One of the primary difficulties is the coordination and communication among the robots. Each robot needs to share its findings and current status with the rest of the swarm to ensure efficient exploration and avoid redundant efforts. This requires a robust and reliable communication system, which can be challenging to implement, especially in environments where communication signals may be weak or disrupted. Another challenge is the decision making process. In a distributed system, each robot needs to make decisions based on its local information and the information received from its peers. Designing an effective decision-making algorithm that can handle uncertainties and dynamically adapt to the changing environment is a complex task. This requires sophisticated algorithms for fault detection, isolation, and recovery.
+
 
 ## Related works
 A comprehensive system was implemented by Arvanitakis
