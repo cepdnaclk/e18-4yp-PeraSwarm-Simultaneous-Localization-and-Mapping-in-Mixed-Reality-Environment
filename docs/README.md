@@ -62,13 +62,8 @@ Nonetheless, advancements in robotics and artificial intelligence
 pave the way for overcoming these challenges, leading to more
 efficient and robust exploration missions.
 
-
-
-<img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="300" style="display: block; margin: 0 auto;"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="300" style="display: block; margin: 0 auto;"/>
+<img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="300"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="300"/>
 <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
-
-
-
 
 ## Related works
 A comprehensive system was implemented by Arvanitakis
@@ -123,8 +118,14 @@ no more unknown regions. At each time step, each robot
 broadcasted its own position and local map, integrating the
 information received from other robots into its local map.
 
-![Brain Strorming Algo](./images/brain-storm.png)
-![Flow Diagram](./images/flow.png)
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/brain-storm.png" alt="Fig. Grid map environment" width="350" />
+  <p class="caption text-center">Fig. Grid map environment</p>
+</div>
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/flow.png" alt="Fig. Overall schematic diagram" width="550" />
+  <p class="caption text-center">Fig. Overall schematic diagram</p>
+</div>
 
 ---
 
