@@ -62,7 +62,7 @@ Nonetheless, advancements in robotics and artificial intelligence
 pave the way for overcoming these challenges, leading to more
 efficient and robust exploration missions.
 
-<img src="images/bee_swarm0.gif" alt="Fig. Bee Swarm" height="200"/> <img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="200"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="200"/>
+<img src="images/ant_swarm.jpg" alt="Fig. Ant Swarm" height="250"/> <img src="images/bee_swarm.gif" alt="Fig. Bee Swarm" height="250"/>
 <p class="caption text-center">Fig. Natural swarms (Ants, Bees)</p>
 
 ## Related works
