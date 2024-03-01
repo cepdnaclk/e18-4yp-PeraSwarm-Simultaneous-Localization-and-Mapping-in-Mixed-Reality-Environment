@@ -119,11 +119,11 @@ broadcasted its own position and local map, integrating the
 information received from other robots into its local map.
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/brain-storm.png" alt="Fig. Grid map environment" width="350" />
+  <img class="mx-auto d-block" src="./images/brain-storm.png" alt="Fig. Grid map environment" width="400" />
   <p class="caption text-center">Fig. Grid map environment</p>
 </div>
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/flow.png" alt="Fig. Overall schematic diagram" width="550" />
+  <img class="mx-auto d-block" src="./images/flow.png" alt="Fig. Overall schematic diagram" width="500" />
   <p class="caption text-center">Fig. Overall schematic diagram</p>
 </div>
 
