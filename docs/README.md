@@ -75,8 +75,10 @@ towards their target areas and then were guided towards their
 targets. The robots exchanged their maps in a collaborative
 manner during the exploration.
 
-![Collaborative Mapping](./images/collaborative-mapping.png)
-
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/collaborative-mapping.png" alt="Fig. Evolution of the robot navigation towards the target location" width="600" />
+  <p class="caption text-center">Fig. Evolution of the robot navigation towards the target location</p>
+</div>
 ---
 
 According to the SwarMap system, a swarm of
