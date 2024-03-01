@@ -270,8 +270,8 @@ techniques for improved mapping and localization.
 ## Publications
 <!--[//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
 
-1. [Semester 7 report](./Semester_7_slides.pdf)
-2. [Semester 7 slides](./)
+1. [Semester 7 report](./Semester_7_report.pdf)
+2. [Semester 7 slides](./Semester_7_slides.pdf)
 <!-- 3. [Semester 8 report](./) -->
 <!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
