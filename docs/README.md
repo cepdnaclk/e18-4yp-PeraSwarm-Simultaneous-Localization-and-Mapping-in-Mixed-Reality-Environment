@@ -119,7 +119,7 @@ broadcasted its own position and local map, integrating the
 information received from other robots into its local map.
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/brain-storm.png" alt="Fig. Grid map environment" width="400" />
+  <img class="mx-auto d-block" src="./images/brain-storm.png" alt="Fig. Grid map environment" width="500" />
   <p class="caption text-center">Fig. Grid map environment</p>
 </div>
 <div class="figure container">
@@ -148,8 +148,14 @@ and tools used for simulation and experimentation, and the
 algorithms developed for collaborative localization, task
 allocation, and mapping.
 
-![Occupancy Grid Based](./images/grid.png)
-![Topological Mapping](./images/graph.png)
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/grid.png" alt="Fig. Occupancy grid mapping" width="600" />
+  <p class="caption text-center">Fig. Occupancy grid mapping</p>
+</div>
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/graph.png" alt="Fig. Topological mapping" width="600" />
+  <p class="caption text-center">Fig. Topological mapping</p>
+</div>
 
 ---
 
