@@ -28,8 +28,8 @@ title: PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environm
 1. [Abstract](#abstract)
 2. [Related works](#related-works)
 3. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
-4. [Results and Analysis](#results-and-analysis)
-5. [Conclusion](#conclusion)
+4. [Conclusion](#conclusion)
+5. [Publications](#publications)
 6. [Links](#links)
 
 <!-- 3. [Methodology](#methodology)
@@ -251,8 +251,6 @@ in terms of accuracy, completeness, and scalability.
 We also took an approach to mapping with unknown initial
 positions and heading directions.
 
-## Results and Analysis
-
 ## Conclusion
 Swarm robotics can be considered as a core research topic in
 the scope of multi-agent systems in engineering that leverages
@@ -268,12 +266,12 @@ constraints. Future directions and potential advancements in
 Swarm SLAM involve the development of advanced cooperative localization methods, integration of machine learning
 techniques for improved mapping and localization.
 
-<!-- 
+ 
 ## Publications
-[//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
+<!--[//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
 
-<!-- 1. [Semester 7 report](./) -->
-<!-- 2. [Semester 7 slides](./) -->
+1. [Semester 7 report](./Semester_7_slides.pdf)
+2. [Semester 7 slides](./)
 <!-- 3. [Semester 8 report](./) -->
 <!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
