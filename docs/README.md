@@ -76,7 +76,7 @@ targets. The robots exchanged their maps in a collaborative
 manner during the exploration.
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/collaborative-mapping.png" alt="Fig. Evolution of the robot navigation towards the target location" width="600" />
+  <img class="mx-auto d-block" src="./images/collaborativeMapping.png" alt="Fig. Evolution of the robot navigation towards the target location" width="600" />
   <p class="caption text-center">Fig. Evolution of the robot navigation towards the target location</p>
 </div>
 ---
