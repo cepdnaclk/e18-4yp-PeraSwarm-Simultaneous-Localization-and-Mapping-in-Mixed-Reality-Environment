@@ -42,6 +42,7 @@ title: PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environm
 
 ---
 
+![Pera Swarm](./images/pera_swarm.png)
 
 ## Abstract
 This paper explores the captivating field of swarm robotics, where multiple robots collaborate to achieve tasks in decentralized and distributed manner. Inspired by natural swarm behaviors, such as those observed in ants and bees, swarm robotics aims to analyze emergent behaviors within robot swarms, including aggregation, dispersion, and collective movement. The focus here is on the exploration behavior of swarm robotics in unknown environments. While swarm robotics offers increased efficiency, reliability, and cost-effectiveness, implementing distributed exploration poses challenges in coordination, communication, decision-making, and fault tolerance. Nonetheless, advancements in robotics and artificial intelligence pave the way for overcoming these challenges, leading to more efficient and robust exploration missions.
