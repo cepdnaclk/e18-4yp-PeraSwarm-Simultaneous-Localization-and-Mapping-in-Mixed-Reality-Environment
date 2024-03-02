@@ -178,7 +178,7 @@ generated within a few minutes of operation.
 </div>
 
 <div class="figure container">
-  <img class="mx-auto d-block" src="./images/Demo.gif" alt="Fig. Testing environment and generated map for two robots" width="800" />
+  <img class="mx-auto d-block" src="./images/Demo.gif" alt="Fig. Testing environment and generated map for two robots" width="900" />
   <p class="caption text-center">Demonstration</p>
 </div>
 
