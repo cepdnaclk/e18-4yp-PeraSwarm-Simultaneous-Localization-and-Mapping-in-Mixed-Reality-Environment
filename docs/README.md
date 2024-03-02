@@ -57,12 +57,16 @@ Swarm robotics is a fascinating field of robotics that involves multiple robots 
 
 Swarm robotics mainly focuses on the collective behaviors of robots working together without centralized control, particularly in exploration tasks within unknown environments. These types of autonomous robots are mostly used in real-world applications such as search and rescue missions, in exploration and surveillance systems and intrusion detection or fault identification systems in complex environments. They are also used in hazardous environment navigations, reaching areas that are inaccessible or too dangerous for humans. Efficient mapping strategies are crucial for these robots to navigate and adapt to changes. Swarms of robots offer advantages over single robots, including increased efficiency, reliability, and cost-effectiveness due to collaborative efforts, redundancy, and flexibility, making them ideal for time-sensitive missions and unpredictable conditions.
 
-<img src="images/mit_swarm.png" alt="Fig. Ant Swarm" height="250"/>
-<p class="caption text-center">Fig. MIT Multirobot Mapping Sets</p>
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/mit_swarm.png" alt="Fig. MIT Multirobot Mapping Sets" height="250" />
+  <p class="caption text-center">Fig. MIT Multirobot Mapping Sets</p>
+</div>
 <!-- <a href="https://spectrum.ieee.org/multi-robot-slam-icra2023">Visit</a> -->
 
-<img src="images/harvard_swarm.gif" alt="Fig. Bee Swarm" height="250"/>
-<p class="caption text-center">Fig. Harvard Kilobots</p>
+<div class="figure container">
+  <img class="mx-auto d-block" src="./images/harvard_swarm.gif" alt="Fig. Harvard Kilobots" height="250" />
+  <p class="caption text-center">Fig. Harvard Kilobots</p>
+</div>
 <!-- <a href="https://spectrum.ieee.org/a-thousand-kilobots-self-assemble">Visit</a> -->
 
 
