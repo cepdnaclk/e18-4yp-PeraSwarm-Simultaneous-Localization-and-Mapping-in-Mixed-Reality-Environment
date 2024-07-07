@@ -1,0 +1,3 @@
+[submodule "pera-swarm-algorithms"]
+	path = pera-swarm-algorithms
+	url = https://github.com/dhmudalige/pera-swarm-algorithms.git
