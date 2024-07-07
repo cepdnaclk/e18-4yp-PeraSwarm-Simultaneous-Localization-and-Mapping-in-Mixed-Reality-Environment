@@ -1,3 +1,6 @@
 [submodule "pera-swarm-algorithms"]
 	path = pera-swarm-algorithms
 	url = https://github.com/dhmudalige/pera-swarm-algorithms.git
+[submodule "swarm-simulator"]
+	path = swarm-simulator
+	url = https://github.com/dhmudalige/swarm-simulator-testing.git
