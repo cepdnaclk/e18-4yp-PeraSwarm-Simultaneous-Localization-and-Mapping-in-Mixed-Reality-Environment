@@ -4,3 +4,6 @@
 [submodule "swarm-simulator"]
 	path = swarm-simulator
 	url = https://github.com/dhmudalige/swarm-simulator-testing.git
+[submodule "robot-library"]
+	path = robot-library
+	url = https://github.com/dhmudalige/robot-library-java.git
