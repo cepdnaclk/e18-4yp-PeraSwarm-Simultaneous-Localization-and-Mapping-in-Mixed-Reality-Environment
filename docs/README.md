@@ -205,7 +205,7 @@ However, SLAM with swarm robotics is still a relatively new concept, lacking wel
 <!--[//]: # "Note: Uncomment each once you uploaded the files to the repository" -->
 
 1. [Semester 7 slides](./Semester_7_slides.pdf)
-<!-- 4. [Semester 8 slides](./) -->
+2. [Semester 8 slides](./Semester_8_slides.pdf)
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
